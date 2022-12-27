@@ -12,15 +12,15 @@ I am a :
 
 And beyond everything, a devoted :  
   
-🖳 *Programmer* 🖳 
+####🖳 *Programmer* 🖳 
 
 I code with : 
 
-🐍 *Python*
+###🐍*Python*
 
-🧱 *Java*
+###🧱*Java*
 
-📋 *C*  
+###📋*C*  
 
 
 
