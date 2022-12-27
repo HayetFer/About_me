@@ -16,11 +16,11 @@ And beyond everything, a devoted :
 
 I code with : 
 
-🐍### Python
+ ### Python
 
-🧱 ### Java
+ ### Java
 
-📋 ### C
+ ### C
 
 
 
