@@ -2,17 +2,24 @@
 
 I am a : 
 
-♛ Chess-Lover ♛ 
-📰 Avid reader 📰 
-🖍️ Intuitive Artist 🖍️
+♛ Chess-Lover ♛  
+
+📰 Avid reader 📰  
+
+🖍️ Intuitive Artist 🖍️  
+
+
 
 And beyond everything, a devoted :  
 🖳 Programmer 🖳 
 
 I code with : 
 
-*🐍 Python 
-*🧱 Java 
-*📋 C 
+🐍 *Python  
+
+🧱 *Java  
+
+📋 *C   
+
 
 
