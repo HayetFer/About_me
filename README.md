@@ -25,4 +25,4 @@ I code with :
 
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=HayetFer
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HayetFer&show_icons=true&theme=radical)
