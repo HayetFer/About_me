@@ -2,15 +2,15 @@
 
 I am a : 
 
-♛ Chess-Lover ♛
-📰 Avid reader 📰
-🖍️ Intuitive Artist 🖍️
+♛ Chess-Lover ♛ \n
+📰 Avid reader 📰 \n
+🖍️ Intuitive Artist 🖍️\n
 
-And beyond everything, a devoted : 
-🖳 Programmer 🖳
+And beyond everything, a devoted : \n 
+🖳 Programmer 🖳 \n
 
-I code with : 
+I code with : \n
 
-🐍 Python
-🧱 Java
-📋 C
+🐍 Python \n
+🧱 Java \n
+📋 C \n
