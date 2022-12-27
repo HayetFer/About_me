@@ -12,7 +12,7 @@ I am a :
 
 And beyond everything, a devoted :  
   
-*🖳 Programmer 🖳 *
+🖳 *Programmer* 🖳 
 
 I code with : 
 
