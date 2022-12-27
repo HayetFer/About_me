@@ -25,4 +25,6 @@ And beyond everything, a devoted :
 ##
 
 ### :fire: My Stats :
+![](https://github.com/HayetFer/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/HayetFer/github-stats/blob/master/generated/languages.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HayetFer&show_icons=true&theme=radical)
