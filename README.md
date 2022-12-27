@@ -1,5 +1,4 @@
-
-#⭐ - ABOUT ME - ⭐
+# ⭐ - ABOUT ME - ⭐
 
 I am a : 
 
