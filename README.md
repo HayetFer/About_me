@@ -11,6 +11,6 @@ And beyond everything, a devoted :
 
 I code with : 
 
-🐍 Python \n
-🧱 Java \n
-📋 C \n
+🐍 Python 
+🧱 Java 
+📋 C 
